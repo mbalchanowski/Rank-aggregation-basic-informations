@@ -1,6 +1,7 @@
 # What is Rank Aggregation?
 As pointed out in [Aggarwal, C.C. (2016). Advanced Topics in Recommender Systems (page 417)](https://doi.org/10.1007/978-3-319-29659-3_13), this is a relatively unexplored approach in the context of recommendation systems, where instead of a single algorithm, a certain set of algorithms is used that generate recommendations for a given user, and then the results of these algorithms are aggregated to create a new recommendation. Aggregation is not a trivial problem, as there is no single universal method for combining such rankings.
 
+I have created a simple figure to demonstrate this process:
 <img src="./GA.svg">
 
 # Where to start?
