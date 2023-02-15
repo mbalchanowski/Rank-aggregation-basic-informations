@@ -20,6 +20,7 @@ Next, I think it is worth reading these three publications:
 * [RecRankAgg](https://github.com/mbalchanowski/RecRankAgg) - Easy to use rank aggregation software for recommendation systems.
 * [RankAggreg](https://cran.r-project.org/web/packages/RankAggreg/vignettes/RankAggreg.pdf) - R package for weighted rank aggregation.
 * [MC4](https://github.com/kalyaniuniversity/MC4) - An implementation of Markov Chain Type 4 Rank Aggregation algorithm in Python.
+* [Kemeny_ranking](https://github.com/sschnug/kemeny_ranking) - (Exact) Kemeny rank-aggregation using Integer-Programming with Python.
 
 # More:
 * [Repository about group recommender systems](https://github.com/lucasvinhtran/group-recommender-systems).
