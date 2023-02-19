@@ -16,7 +16,7 @@ Next, I think it is worth reading these three publications:
 
 # Software:
 
-There are some excellent libraries written in Python and R which can help you.
+There are some excellent software written in Python and R which can help you.
 
 ## Python
 * [Ranx](https://github.com/AmenRa/ranx) - A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion.
