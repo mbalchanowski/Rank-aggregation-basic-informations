@@ -18,16 +18,19 @@ Next, I think it is worth reading these three publications:
 
 There is some excellent software written in Python and R which can help you.
 
-## Python
-* [Ranx](https://github.com/AmenRa/ranx) - A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion.
+### Python
+* [**Ranx**](https://github.com/AmenRa/ranx) - A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion.
 * [Ranky](https://github.com/Didayolo/ranky) - Another good library for ranking problem written in Python.
 * [RecRankAgg](https://github.com/mbalchanowski/RecRankAgg) - Easy to use rank aggregation software for recommendation systems.
 * [MC4](https://github.com/kalyaniuniversity/MC4) - An implementation of Markov Chain Type 4 Rank Aggregation algorithm in Python.
 * [Kemeny_ranking](https://github.com/sschnug/kemeny_ranking) - (Exact) Kemeny rank-aggregation using Integer-Programming with Python.
-* [ERA](https://github.com/samuevan/ERA) - This repository contains the implementation of the Evolutionary Rank Aggregation (ERA) method proposed in [here](https://doi.org/10.1109/CEC.2016.7743803).
+* [Pyrankagg](https://github.com/thelahunginjeet/pyrankagg) - Pure python code for rank aggregation/voting.
 
-## R
+### R
 * [RankAggreg](https://cran.r-project.org/web/packages/RankAggreg/vignettes/RankAggreg.pdf) - R package for weighted rank aggregation.
+
+### Java
+* [ERA](https://github.com/samuevan/ERA) - This repository contains the implementation of the Evolutionary Rank Aggregation (ERA) method proposed in [here](https://doi.org/10.1109/CEC.2016.7743803).
 
 # More:
 * [Repository about group recommender systems](https://github.com/lucasvinhtran/group-recommender-systems)
