@@ -19,7 +19,7 @@ Next, I think it is worth reading these three publications:
 There is some excellent software written in Python and R which can help you.
 
 ### Python
-* [**Ranx**](https://github.com/AmenRa/ranx) - A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion.
+* [Ranx](https://github.com/AmenRa/ranx) - **A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion.**
 * [Ranky](https://github.com/Didayolo/ranky) - Another good library for ranking problem written in Python.
 * [RecRankAgg](https://github.com/mbalchanowski/RecRankAgg) - Easy to use rank aggregation software for recommendation systems.
 * [MC4](https://github.com/kalyaniuniversity/MC4) - An implementation of Markov Chain Type 4 Rank Aggregation algorithm in Python.
