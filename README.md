@@ -1,7 +1,5 @@
-[WIP] In free time I will add more informations.
-
 # What is Rank Aggregation?
-Rank aggregation is the process of combining multiple ranked lists into a single ranking. Example of score-based rank aggregation method is shown below (picture from [here](https://doi.org/10.3390/e25010132)):
+Rank aggregation is the process of combining multiple ranked lists into a single ranking. An example of a score-based rank aggregation method is shown below (picture from [here](https://doi.org/10.3390/e25010132)):
 
 <img src="./Rank_aggregation_example.svg">
 
