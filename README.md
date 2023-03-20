@@ -10,14 +10,14 @@ I have created a simple figure to demonstrate this process:
 <img src="./GA.svg">
 
 # Where to start?
-From this two blog posts:
-* [Vlad Niculae - Kemeny Young Optimal Rank Aggregation in Python](https://vene.ro/blog/kemeny-young-optimal-rank-aggregation-in-python.html)
-* [Daniel Alabi - Kemeny Rank Aggregation](https://alabidan.blog/2021/07/17/kemeny-rank-aggregation/)
-
-Next, I think it is worth reading these three publications:
+Publications:
 * [Rank aggregation methods for the Web](https://dl.acm.org/doi/10.1145/371920.372165)
 * [RankAggreg, an R package for weighted rank aggregation](https://cran.r-project.org/web/packages/RankAggreg/vignettes/RankAggreg.pdf)
 * [Is Rank Aggregation Effective in Recommender Systems? An Experimental Analysis](https://doi.org/10.1145/3365375)
+
+Blog Posts:
+* [Vlad Niculae - Kemeny Young Optimal Rank Aggregation in Python](https://vene.ro/blog/kemeny-young-optimal-rank-aggregation-in-python.html)
+* [Daniel Alabi - Kemeny Rank Aggregation](https://alabidan.blog/2021/07/17/kemeny-rank-aggregation/)
 
 # Software:
 
